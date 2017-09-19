@@ -8,3 +8,6 @@ image with python:
 + [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image)
 + [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
 + []
+
+tensorflow:
++ [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)
